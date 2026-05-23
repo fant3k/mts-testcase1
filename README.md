@@ -29,7 +29,7 @@ ssh testuser@localhost
 > `ssh testuser@localhost -p 2222`
 
 Результат
-![результат](https://github.com/user-attachments/assets/67ae0e52-84ed-4dca-a32c-ffdd8ff6844b)
+![результат](https://github.com/user-attachments/assets/005333f9-e20f-4514-bdc8-5d868760ed94)
 
 
 Задание 2
